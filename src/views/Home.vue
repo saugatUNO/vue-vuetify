@@ -1,7 +1,5 @@
 <template>
   <div class="home">
-    <v-btn>test</v-btn>
-    <v-icon>add</v-icon>
   </div>
 </template>
 
